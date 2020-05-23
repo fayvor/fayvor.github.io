@@ -6,7 +6,7 @@ categories: science, acoustics, morphology
 ---
 This past winter 2019-2020 I attended a talk at the public library about bats, for kids.  I've long been interested in how the brain can reconstruct a picture of 3-dimensional space from echoes of sounds.  When I was young I noticed the phaser effect that happens when you move close to a surface like a wall or tree (or even your hand) when singing.  This post is intended to explore the phenomenon of echolocation, concentrating on bats.
 
-The first thing I want to point out is that the clicks that bats make are actually chirps, and there is information in the frequency sweep of that chirp and how it changes in reflection, with the relative speed of the reflector and the receiver.  The fact that is a chirp instead of a continuous signal seems meaningful, and I'd like to explore that some more later.
+The first thing I want to point out is that the clicks that bats make are actually chirps, and there is information in the frequency sweep of that chirp and how it changes in reflection, with the relative speed of the reflector and the receiver.  The fact that it is a chirp instead of a continuous signal seems meaningful, and I'd like to explore that in this post.
 
 Clicks
 The click rate in bats is coupled with wing beat while the bat is searching for food, and increases to up to 200 clicks per second in the "terminal buzz", when the bat closes in on its prey.  The chirp is about 1ms long, often with a constant frequency (CF) portion, followed by a modulated (FM) sweep.
