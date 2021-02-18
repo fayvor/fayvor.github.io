@@ -2,7 +2,6 @@
 layout: post
 title:  "Echolocation in Bats"
 date:   2020-05-23 13:11:27 -0700
-categories: science, acoustics, morphology
 ---
 This past winter 2019-2020 I attended a talk at the public library about bats, for kids.  I've long been interested in how the brain can reconstruct a picture of 3-dimensional space from echoes of sounds.  When I was young I noticed the phaser effect that happens when you move close to a surface like a wall or tree (or even your hand) when singing.  This post is intended to explore the phenomenon of echolocation, concentrating on bats.
 
