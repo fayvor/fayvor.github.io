@@ -20,3 +20,7 @@ To install jekyll on MacOS Catalina, see:
 Got this error:
 
 `/usr/local/lib/ruby/gems/3.0.0/gems/kramdown-1.17.0/lib/kramdown/parser/html.rb:10:in 'require': cannot load such file -- rexml/parsers/baseparser (LoadError)`
+
+Add it:
+
+`bundle add rexml/parsers/baseparser`
