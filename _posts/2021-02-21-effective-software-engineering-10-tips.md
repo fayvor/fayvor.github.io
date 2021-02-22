@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Effective Software Engineering - 10 Tips to Take to Your Next Job"
+title:  "Effective Software Engineering"
 ---
 For a prettier viersion, please see the article [Effective Software Engineering](https://fayvor.medium.com/effective-software-engineering-10-tips-to-take-to-your-next-job-58ed3a126618) on Medium.
 
