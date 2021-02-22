@@ -29,6 +29,7 @@ Zinc and copper in solution will exchange electrons in the reaction:
 
 Zn + Cu<sup>2+</sup> → Zn<sup>2+</sup> + Cu
 
+## TODO: is this negative?
 The Zinc half-reaction has a potential energy E1/2 of 0.76V, so this reaction will happen if the electrons have somewhere to go.
 
 Zn → Zn<sup>2+</sup> + 2e<sup>−</sup>
@@ -38,10 +39,10 @@ The Copper half-reaction has a potential of 0.34V, so this reaction will happen 
 Cu<sup>2+</sup> + 2e<sup>−</sup> → Cu
 <sup></sup>
 
-Since Zinc is selling 2 electrons for 0.76V and Copper is buying 2 electrons for 0.34V, the transaction happens and energy is released.  If we want to know how much energy is released, we can multiply Coulombs * Volts to get Joules.
+Since Zinc will give away 2 electrons at 0.76V and Copper will accept 2 electrons at 0.34V, the transaction happens and energy is released. If we want to know how much energy is released, we can multiply Coulombs * Volts to get Joules. The energy in Joules released by 1 Coulomb of electrons involved in this reaction is (1 * 0.34J) - (1 * -0.76J) = 1.10J
 
 If this happens for one mole each of Zn and Cu in solution, that makes 2 Coulombs of charge transferred (since each reaction involves 2 electrons) and the energy released is:
-0.76V + 0.34V = 1.10V * 2C = 0.84J
+(0.34V + 0.76V) * 2C = 1.10V * 2C = 2.20J
 
 ###Reaction Energy
 - Reaction Coordinate Diagram
@@ -89,3 +90,7 @@ dQ/dt is current, and dV/dt is constant in a linear potential sweep.  So dQ/dV i
 [3]: <https://phet.colorado.edu/en/simulation/diffusion> "Diffusion Sim"
 [4]: <https://www.youtube.com/watch?v=egqcSscZl_g> "Reaction Rates"
 [5]: <https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation> "Nernst Equation Example 1"
+
+## Links
+
+[Standard Cell Potentials](https://courses.lumenlearning.com/cheminter/chapter/electrochemistry/)
